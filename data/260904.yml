@@ -7,7 +7,7 @@ about:
   head: a3902b8
   archived: false
   latestVersion: v0.33.1.dev20260903
-  collectedAt: 2026-09-04T19:55:09Z
+  collectedAt: 2026-09-04T20:52:24Z
 timeline:
   created: 2023-03-24
   lastCommit: 2026-09-04
@@ -18,7 +18,7 @@ popularity:
   fork: 420
   release: 123
   contributor: 48
-  pullRequest: 3046
+  pullRequest: 3047
   issue: 630
 language:
   Python: 13145497
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-05
     release: 10
     mergedPR: 182
-    openPR: 15
+    openPR: 16
     closedIssue: 31
     openIssue: 8
     commit: 178
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-06
     release: 20
     mergedPR: 427
-    openPR: 15
+    openPR: 16
     closedIssue: 75
     openIssue: 9
     commit: 432
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-06
     release: 24
     mergedPR: 760
-    openPR: 15
+    openPR: 16
     closedIssue: 94
     openIssue: 9
     commit: 759
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-08
     release: 55
     mergedPR: 1720
-    openPR: 15
+    openPR: 16
     closedIssue: 204
     openIssue: 9
     commit: 1726
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-09
     release: 63
     mergedPR: 2420
-    openPR: 15
+    openPR: 16
     closedIssue: 390
     openIssue: 9
     commit: 2680
@@ -77,17 +77,145 @@ recent:
     since: 2024-09-14
     release: 81
     mergedPR: 2673
-    openPR: 15
+    openPR: 16
     closedIssue: 558
     openIssue: 9
     commit: 3872
 total:
   release: 123
   mergedPR: 2714
-  openPR: 15
+  openPR: 16
   closedIssue: 621
   openIssue: 9
   commit: 4416
 ---
+path: /home/runner/.x-repo/github.com/gptme/gptme
+collectedAt: 2026-09-04T20:52:32Z
+loc:
+  Python:
+    code: 291928
+    comments: 19256
+    blanks: 58346
+    files: 851
+  Tsx:
+    code: 32970
+    comments: 1441
+    blanks: 3517
+    files: 189
+  Json:
+    code: 21034
+    comments: 0
+    blanks: 5
+    files: 21
+  TypeScript:
+    code: 15815
+    comments: 2040
+    blanks: 2214
+    files: 141
+  ReStructuredText:
+    code: 8493
+    comments: 0
+    blanks: 3757
+    files: 46
+  JavaScript:
+    code: 2087
+    comments: 445
+    blanks: 176
+    files: 9
+  Sh:
+    code: 1041
+    comments: 320
+    blanks: 218
+    files: 25
+  Rust:
+    code: 976
+    comments: 118
+    blanks: 100
+    files: 3
+  Css:
+    code: 511
+    comments: 31
+    blanks: 108
+    files: 4
+  Html:
+    code: 417
+    comments: 23
+    blanks: 22
+    files: 8
+  Toml:
+    code: 402
+    comments: 101
+    blanks: 77
+    files: 7
+  Makefile:
+    code: 342
+    comments: 24
+    blanks: 88
+    files: 3
+  Xml:
+    code: 284
+    comments: 8
+    blanks: 6
+    files: 11
+  Kotlin:
+    code: 246
+    comments: 1
+    blanks: 30
+    files: 6
+  Yaml:
+    code: 192
+    comments: 59
+    blanks: 29
+    files: 4
+  Svg:
+    code: 153
+    comments: 0
+    blanks: 9
+    files: 8
+  RPMSpecfile:
+    code: 102
+    comments: 11
+    blanks: 7
+    files: 1
+  Batch:
+    code: 94
+    comments: 1
+    blanks: 29
+    files: 2
+  Dockerfile:
+    code: 54
+    comments: 18
+    blanks: 18
+    files: 1
+  Fish:
+    code: 48
+    comments: 16
+    blanks: 16
+    files: 1
+  Prolog:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Bash:
+    code: 12
+    comments: 4
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8863
+    blanks: 2543
+    files: 97
+  Text:
+    code: 0
+    comments: 104
+    blanks: 12
+    files: 5
+total:
+  code: 378730
+  comments: 33284
+  blanks: 71599
+  files: 1445
 ---
 
