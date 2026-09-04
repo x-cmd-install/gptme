@@ -1,0 +1,65 @@
+about:
+  description: Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
+  license: MIT
+  homepage: https://gptme.org/docs/
+  head: b1e9f03
+  archived: false
+  latestVersion: v0.33.1.dev20260903
+  collectedAt: 2026-09-04T04:58:21Z
+timeline:
+  created: 2023-03-24
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 4409
+  watcher: 40
+  fork: 420
+  release: 123
+  contributor: 49
+  pullRequest: 338
+  issue: 630
+language:
+  Python: 13050101
+  TypeScript: 2006895
+  JavaScript: 77906
+  Shell: 51054
+  Rust: 45736
+  HTML: 39579
+  Makefile: 18167
+  CSS: 12833
+  Kotlin: 5808
+  Dockerfile: 3290
+totalLine: 15311369
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 10
+    mergedPR: 175
+    openPR: 22
+    closedIssue: 30
+    openIssue: 9
+    commit: 171
+  last90d:
+    since: 2026-06-06
+    release: 24
+    mergedPR: 753
+    openPR: 22
+    closedIssue: 93
+    openIssue: 10
+    commit: 752
+  last180d:
+    since: 2026-03-08
+    release: 55
+    mergedPR: 1713
+    openPR: 22
+    closedIssue: 203
+    openIssue: 10
+    commit: 1719
+  last360d:
+    since: 2025-09-09
+    release: 63
+    mergedPR: 2413
+    openPR: 22
+    closedIssue: 389
+    openIssue: 10
+    commit: 2673
