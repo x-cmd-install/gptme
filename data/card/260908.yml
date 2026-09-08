@@ -2,10 +2,10 @@ about:
   description: "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!"
   license: MIT
   homepage: https://gptme.org/docs/
-  head: 7cb63ef
+  head: cd5e489
   archived: false
   latestVersion: "v0.33.1.dev20260903"
-  collectedAt: 2026-09-08T02:29:31Z
+  collectedAt: 2026-09-08T05:18:36Z
 timeline:
   created: 2023-03-24
   lastCommit: 2026-09-08
@@ -16,10 +16,10 @@ popularity:
   fork: 424
   release: 123
   contributor: 48
-  pullRequest: 3077
+  pullRequest: 3079
   issue: 634
 language:
-  Python: 13368201
+  Python: 13380514
   TypeScript: 2024295
   JavaScript: 77906
   Shell: 51054
@@ -29,71 +29,71 @@ language:
   CSS: 12833
   Kotlin: 5808
   Dockerfile: 3290
-totalBytes: 15646869
+totalBytes: 15659182
 recent:
   last30d:
     since: 2026-08-09
     release: 9
-    mergedPR: 164
-    openPR: 16
-    closedIssue: 27
-    openIssue: 9
-    commit: 150
+    mergedPR: 168
+    openPR: 12
+    closedIssue: 29
+    openIssue: 7
+    commit: 154
   last60d:
     since: 2026-07-10
     release: 18
-    mergedPR: 414
-    openPR: 16
-    closedIssue: 74
-    openIssue: 9
-    commit: 363
+    mergedPR: 418
+    openPR: 12
+    closedIssue: 76
+    openIssue: 7
+    commit: 367
   last90d:
     since: 2026-06-10
     release: 23
-    mergedPR: 717
-    openPR: 16
-    closedIssue: 96
-    openIssue: 10
-    commit: 664
+    mergedPR: 721
+    openPR: 12
+    closedIssue: 98
+    openIssue: 8
+    commit: 668
   last180d:
     since: 2026-03-12
     release: 52
-    mergedPR: 1716
-    openPR: 16
-    closedIssue: 202
-    openIssue: 10
-    commit: 1708
+    mergedPR: 1720
+    openPR: 12
+    closedIssue: 204
+    openIssue: 8
+    commit: 1712
   last360d:
     since: 2025-09-13
     release: 63
-    mergedPR: 2441
-    openPR: 16
-    closedIssue: 393
-    openIssue: 10
-    commit: 2701
+    mergedPR: 2445
+    openPR: 12
+    closedIssue: 395
+    openIssue: 8
+    commit: 2705
   last720d:
     since: 2024-09-18
     release: 80
-    mergedPR: 2688
-    openPR: 16
-    closedIssue: 558
-    openIssue: 10
-    commit: 3870
+    mergedPR: 2692
+    openPR: 12
+    closedIssue: 560
+    openIssue: 8
+    commit: 3874
 total:
   release: 123
-  mergedPR: 2736
-  openPR: 16
-  closedIssue: 624
-  openIssue: 10
-  commit: 4438
+  mergedPR: 2740
+  openPR: 12
+  closedIssue: 626
+  openIssue: 8
+  commit: 4442
 ---
 path: /home/runner/.x-repo/github.com/gptme/gptme
-collectedAt: 2026-09-08T02:29:48Z
+collectedAt: 2026-09-08T05:18:54Z
 loc:
   Python:
-    code: 296969
-    comments: 19508
-    blanks: 59210
+    code: 297215
+    comments: 19514
+    blanks: 59259
     files: 867
   Tsx:
     code: 33061
@@ -211,9 +211,9 @@ loc:
     blanks: 12
     files: 5
 total:
-  code: 384051
-  comments: 33622
-  blanks: 72530
+  code: 384297
+  comments: 33628
+  blanks: 72579
   files: 1462
 ---
 

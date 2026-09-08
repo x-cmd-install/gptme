@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 155425272,
       "digest": "sha256:fee74e7216f4232f65d94da0e214ccff0840c647f5a34350a4949039c7743fc3",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-08-19T15:01:02Z",
       "updated_at": "2026-08-19T15:01:09Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_amd64.AppImage"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 40064639,
       "digest": "sha256:a163b5d5fb64fdec5e9e33c346b887eeba22f82923a084ac2bd6656e932688a2",
-      "download_count": 117,
+      "download_count": 118,
       "created_at": "2026-08-19T15:02:28Z",
       "updated_at": "2026-08-19T15:02:30Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_universal.apk"
