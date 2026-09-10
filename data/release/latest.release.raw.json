@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 74163916,
       "digest": "sha256:741bcbdbe344f4fc26ba467c1af3850bb9890331fb1a9bc8ee3b9601d5acbb60",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-08-19T14:39:17Z",
       "updated_at": "2026-08-19T14:39:19Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-server-bin-0.33.0-linux-x64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 40064639,
       "digest": "sha256:a163b5d5fb64fdec5e9e33c346b887eeba22f82923a084ac2bd6656e932688a2",
-      "download_count": 133,
+      "download_count": 135,
       "created_at": "2026-08-19T15:02:28Z",
       "updated_at": "2026-08-19T15:02:30Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_universal.apk"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 56430818,
       "digest": "sha256:88f5c098c000daf24c6d7985a68213da3ad3fcfffdf76bce8059dc5122baa71f",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-08-19T14:57:59Z",
       "updated_at": "2026-08-19T14:58:01Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_x64-setup.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 4573,
       "digest": "sha256:2dd1d39e3898c3336192b867c6295465538a6f083085c702a347463200ac0312",
-      "download_count": 241,
+      "download_count": 243,
       "created_at": "2026-08-19T15:00:48Z",
       "updated_at": "2026-08-19T15:00:48Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.33.0/latest.json"

@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: gptme
+  visiblename: gptme
+  version: 0.33.0
+  origversion: null
+  status: unique
+  summary: AI assistant in your terminal
+- repo: homebrew
+  srcname: gptme
+  visiblename: gptme
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AI assistant in your terminal
