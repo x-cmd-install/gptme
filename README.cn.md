@@ -4,13 +4,25 @@
 
 Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 
-![gptme](https://repo.x-cmd.io/gptme.svg)
+![gptme](https://repo.x-cmd.io/gptme.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install gptme
 ```
+
+## 代码规模
+
+合计: **396,408** 行代码（覆盖前 5 种语言、共 **1292** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 309,821 | 20,284 | 61,431 | 891 |
+| Tsx | 33,469 | 1,515 | 3,602 | 189 |
+| Json | 21,034 | 0 | 5 | 21 |
+| TypeScript | 16,321 | 2,207 | 2,297 | 144 |
+| ReStructuredText | 8,778 | 0 | 3,851 | 47 |
 
 ## 源代码
 
@@ -20,38 +32,53 @@ x install gptme
 
 ## 发布
 
-- **最新版本**: `v0.33.1.dev20260903` (2026-08-19)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.33.1.dev20260910` (2026-08-19)
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 20 个
-- **发布时间**: 2026-08-19T14:34:30Z
 
 ## 流行度
 
-- **Star**: 4,411 · **Fork**: 425 · **开放 issue**: 642 · **贡献者**: 49
+- **Star**: 4,411 · **Fork**: 427 · **开放 issue**: 645 · **贡献者**: 49
 
 ## 累计统计
 
-- **发布数**: 123 · **已合并 PR**: 2778 · **开放 PR**: 10 · **已关闭 issue**: 638 · **开放 issue**: 4 · **提交数**: 4479
+- **发布数**: 124 · **已合并 PR**: 2789 · **开放 PR**: 11 · **已关闭 issue**: 640 · **开放 issue**: 5 · **提交数**: 4489
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 195 | 10 | 40 | 3 | 191 |
-| 90d | 2026-06-12 | 23 | 727 | 10 | 110 | 4 | 705 |
-| 360d | 2025-09-15 | 63 | 2483 | 10 | 407 | 4 | 2742 |
+| 30d | 2026-08-11 | 9 | 206 | 11 | 42 | 4 | 201 |
+| last60d | 2026-07-12 | 16 | 430 | 11 | 82 | 4 | 414 |
+| 90d | 2026-06-12 | 24 | 738 | 11 | 112 | 5 | 715 |
+| last180d | 2026-03-14 | 52 | 1755 | 11 | 218 | 5 | 1759 |
+| 360d | 2025-09-15 | 64 | 2494 | 11 | 409 | 5 | 2752 |
+| last720d | 2024-09-20 | 80 | 2738 | 11 | 573 | 5 | 3896 |
 
-## 代码规模
+## Release 资产
 
-合计: **393,593** 行代码（覆盖前 5 种语言、共 **1286** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 307,251 | 20,046 | 61,029 | 885 |
-| Tsx | 33,469 | 1,515 | 3,602 | 189 |
-| Json | 21,034 | 0 | 5 | 21 |
-| TypeScript | 16,129 | 2,188 | 2,272 | 144 |
-| ReStructuredText | 8,727 | 0 | 3,838 | 47 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gptme-0.33.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-0.33.0-py3-none-any.whl) | 2.8 MiB | `other` |
+| [gptme-0.33.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-0.33.0.tar.gz) | 3.1 MiB | `native/unknown` |
+| [gptme-server-bin-0.33.0-linux-x64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-server-bin-0.33.0-linux-x64.tar.gz) | 70.7 MiB | `native/unknown` |
+| [gptme-server-bin-0.33.0-macos-arm64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-server-bin-0.33.0-macos-arm64.tar.gz) | 47.7 MiB | `native/darwin/arm64` |
+| [gptme-tauri-0.33.0-1.x86_64.rpm](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri-0.33.0-1.x86_64.rpm) | 77.5 MiB | `runtime/rpm/x86_64` |
+| [gptme-tauri-0.33.0-1.x86_64.rpm.sig](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri-0.33.0-1.x86_64.rpm.sig) | 424 B | `other` |
+| [gptme-tauri_0.33.0_aarch64.app.tar.gz](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_aarch64.app.tar.gz) | 54.1 MiB | `native/linux/arm64` |
+| [gptme-tauri_0.33.0_aarch64.app.tar.gz.sig](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_aarch64.app.tar.gz.sig) | 412 B | `other` |
+| [gptme-tauri_0.33.0_aarch64.dmg](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_aarch64.dmg) | 55.4 MiB | `other` |
+| [gptme-tauri_0.33.0_amd64.AppImage](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_amd64.AppImage) | 148.2 MiB | `other` |
+| [gptme-tauri_0.33.0_amd64.AppImage.sig](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_amd64.AppImage.sig) | 424 B | `other` |
+| [gptme-tauri_0.33.0_amd64.deb](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_amd64.deb) | 77.5 MiB | `runtime/deb/amd64` |
+| [gptme-tauri_0.33.0_amd64.deb.sig](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_amd64.deb.sig) | 420 B | `other` |
+| [gptme-tauri_0.33.0_universal.aab](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_universal.aab) | 17.9 MiB | `other` |
+| [gptme-tauri_0.33.0_universal.apk](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_universal.apk) | 38.2 MiB | `other` |
+| [gptme-tauri_0.33.0_x64-setup.exe](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_x64-setup.exe) | 53.8 MiB | `other` |
+| [gptme-tauri_0.33.0_x64-setup.exe.sig](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme-tauri_0.33.0_x64-setup.exe.sig) | 424 B | `other` |
+| [gptme_acp-0.33.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme_acp-0.33.0-py3-none-any.whl) | 2.1 KiB | `other` |
+| [gptme_acp-0.33.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.33.0/gptme_acp-0.33.0.tar.gz) | 2.2 KiB | `native/unknown` |
+| [latest.json](https://github.com/gptme/gptme/releases/download/v0.33.0/latest.json) | 4.5 KiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +89,4 @@ gptme 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:22:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:32:30Z._
