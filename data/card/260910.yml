@@ -1,0 +1,224 @@
+about:
+  description: "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!"
+  license: MIT
+  homepage: https://gptme.org/docs/
+  head: 0e70337
+  archived: false
+  latestVersion: "v0.33.1.dev20260903"
+  latestRelease: "v0.33.0"
+  latestPrerelease: "v0.33.1.dev20260903"
+  collectedAt: 2026-09-10T05:21:33Z
+timeline:
+  created: 2023-03-24
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-03
+  lastRelease: 2026-08-19
+  lastPrerelease: 2026-09-03
+popularity:
+  star: 4411
+  watcher: 40
+  fork: 425
+  release: 123
+  contributor: 49
+  pullRequest: 3115
+  issue: 642
+language:
+  Python: 13846680
+  TypeScript: 2053455
+  JavaScript: 77906
+  Shell: 51054
+  Rust: 45736
+  HTML: 39579
+  Makefile: 18167
+  CSS: 12833
+  Kotlin: 5808
+  Dockerfile: 3290
+totalBytes: 16154508
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 8
+    mergedPR: 195
+    openPR: 10
+    closedIssue: 40
+    openIssue: 3
+    commit: 191
+  last60d:
+    since: 2026-07-12
+    release: 15
+    mergedPR: 419
+    openPR: 10
+    closedIssue: 80
+    openIssue: 3
+    commit: 404
+  last90d:
+    since: 2026-06-12
+    release: 23
+    mergedPR: 727
+    openPR: 10
+    closedIssue: 110
+    openIssue: 4
+    commit: 705
+  last180d:
+    since: 2026-03-14
+    release: 51
+    mergedPR: 1744
+    openPR: 10
+    closedIssue: 216
+    openIssue: 4
+    commit: 1749
+  last360d:
+    since: 2025-09-15
+    release: 63
+    mergedPR: 2483
+    openPR: 10
+    closedIssue: 407
+    openIssue: 4
+    commit: 2742
+  last720d:
+    since: 2024-09-20
+    release: 79
+    mergedPR: 2727
+    openPR: 10
+    closedIssue: 571
+    openIssue: 4
+    commit: 3886
+total:
+  release: 123
+  mergedPR: 2778
+  openPR: 10
+  closedIssue: 638
+  openIssue: 4
+  commit: 4479
+---
+path: /home/runner/.x-repo/github.com/gptme/gptme
+collectedAt: 2026-09-10T05:21:57Z
+loc:
+  Python:
+    code: 307251
+    comments: 20046
+    blanks: 61029
+    files: 885
+  Tsx:
+    code: 33469
+    comments: 1515
+    blanks: 3602
+    files: 189
+  Json:
+    code: 21034
+    comments: 0
+    blanks: 5
+    files: 21
+  TypeScript:
+    code: 16129
+    comments: 2188
+    blanks: 2272
+    files: 144
+  ReStructuredText:
+    code: 8727
+    comments: 0
+    blanks: 3838
+    files: 47
+  JavaScript:
+    code: 2087
+    comments: 445
+    blanks: 176
+    files: 9
+  Sh:
+    code: 1041
+    comments: 320
+    blanks: 218
+    files: 25
+  Rust:
+    code: 976
+    comments: 118
+    blanks: 100
+    files: 3
+  Css:
+    code: 511
+    comments: 31
+    blanks: 108
+    files: 4
+  Html:
+    code: 417
+    comments: 23
+    blanks: 22
+    files: 8
+  Toml:
+    code: 406
+    comments: 101
+    blanks: 78
+    files: 7
+  Makefile:
+    code: 342
+    comments: 24
+    blanks: 88
+    files: 3
+  Xml:
+    code: 284
+    comments: 8
+    blanks: 6
+    files: 11
+  Kotlin:
+    code: 246
+    comments: 1
+    blanks: 30
+    files: 6
+  Yaml:
+    code: 192
+    comments: 59
+    blanks: 29
+    files: 4
+  Svg:
+    code: 153
+    comments: 0
+    blanks: 9
+    files: 8
+  RPMSpecfile:
+    code: 102
+    comments: 11
+    blanks: 7
+    files: 1
+  Batch:
+    code: 94
+    comments: 1
+    blanks: 29
+    files: 2
+  Dockerfile:
+    code: 54
+    comments: 18
+    blanks: 18
+    files: 1
+  Fish:
+    code: 48
+    comments: 16
+    blanks: 16
+    files: 1
+  Prolog:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Bash:
+    code: 12
+    comments: 4
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 9243
+    blanks: 2626
+    files: 97
+  Text:
+    code: 0
+    comments: 104
+    blanks: 12
+    files: 5
+total:
+  code: 395198
+  comments: 34691
+  blanks: 74601
+  files: 1483
+---
+
+---
