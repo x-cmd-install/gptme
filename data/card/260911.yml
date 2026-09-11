@@ -2,12 +2,12 @@ about:
   description: "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!"
   license: MIT
   homepage: https://gptme.org/docs/
-  head: 50d7764
+  head: 31a3853
   archived: false
   latestVersion: "v0.33.1.dev20260910"
   latestRelease: "v0.33.0"
   latestPrerelease: "v0.33.1.dev20260910"
-  collectedAt: 2026-09-11T05:25:41Z
+  collectedAt: 2026-09-11T19:32:12Z
 timeline:
   created: 2023-03-24
   lastCommit: 2026-09-11
@@ -21,9 +21,9 @@ popularity:
   release: 124
   contributor: 49
   pullRequest: 3128
-  issue: 645
+  issue: 647
 language:
-  Python: 13978384
+  Python: 13989978
   TypeScript: 2063039
   JavaScript: 77906
   Shell: 51054
@@ -33,71 +33,71 @@ language:
   CSS: 12833
   Kotlin: 5808
   Dockerfile: 3290
-totalBytes: 16295796
+totalBytes: 16307390
 recent:
   last30d:
     since: 2026-08-12
     release: 9
-    mergedPR: 200
-    openPR: 10
+    mergedPR: 201
+    openPR: 9
     closedIssue: 41
-    openIssue: 4
-    commit: 202
+    openIssue: 6
+    commit: 203
   last60d:
     since: 2026-07-13
     release: 16
-    mergedPR: 422
-    openPR: 11
+    mergedPR: 423
+    openPR: 10
     closedIssue: 81
-    openIssue: 4
-    commit: 415
+    openIssue: 6
+    commit: 416
   last90d:
     since: 2026-06-13
     release: 24
-    mergedPR: 719
-    openPR: 11
+    mergedPR: 720
+    openPR: 10
     closedIssue: 112
-    openIssue: 5
-    commit: 716
+    openIssue: 7
+    commit: 717
   last180d:
     since: 2026-03-15
     release: 52
-    mergedPR: 1751
-    openPR: 11
+    mergedPR: 1752
+    openPR: 10
     closedIssue: 217
-    openIssue: 5
-    commit: 1760
+    openIssue: 7
+    commit: 1761
   last360d:
     since: 2025-09-16
     release: 64
-    mergedPR: 2495
-    openPR: 11
+    mergedPR: 2496
+    openPR: 10
     closedIssue: 409
-    openIssue: 5
-    commit: 2753
+    openIssue: 7
+    commit: 2754
   last720d:
     since: 2024-09-21
     release: 80
-    mergedPR: 2739
-    openPR: 11
+    mergedPR: 2740
+    openPR: 10
     closedIssue: 573
-    openIssue: 5
-    commit: 3890
+    openIssue: 7
+    commit: 3891
 total:
   release: 124
-  mergedPR: 2790
-  openPR: 11
+  mergedPR: 2791
+  openPR: 10
   closedIssue: 640
-  openIssue: 5
-  commit: 4490
+  openIssue: 7
+  commit: 4491
 ---
 path: /home/runner/.x-repo/github.com/gptme/gptme
-collectedAt: 2026-09-11T05:26:02Z
+collectedAt: 2026-09-11T19:32:29Z
 loc:
   Python:
-    code: 309830
-    comments: 20294
-    blanks: 61434
+    code: 310039
+    comments: 20306
+    blanks: 61457
     files: 891
   Tsx:
     code: 33469
@@ -215,9 +215,9 @@ loc:
     blanks: 12
     files: 5
 total:
-  code: 398022
-  comments: 34958
-  blanks: 75044
+  code: 398231
+  comments: 34970
+  blanks: 75067
   files: 1489
 ---
 
