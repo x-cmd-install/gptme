@@ -4,7 +4,7 @@
 
 Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 
-[![x-cmd/install — gptme Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gptme.svg?lang=zh)](https://x-cmd.com/install/gptme)
+[![x-cmd/install — gptme Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gptme.svg?lang=zh)](https://x-cmd.com/install/gptme)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install gptme
 
 ## 代码洞察
 
-合计: **420,597** 行代码（覆盖前 5 种语言、共 **1403** 个文件）。
+合计: **420,683** 行代码（覆盖前 5 种语言、共 **1403** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 326,079 | 20,900 | 63,783 | 911 |
+| Python | 326,151 | 20,906 | 63,794 | 911 |
 | Tsx | 35,595 | 1,651 | 3,771 | 197 |
 | Json | 23,733 | 0 | 5 | 24 |
 | TypeScript | 17,618 | 2,416 | 2,423 | 159 |
@@ -33,27 +33,27 @@ x install gptme
 ## 发布
 
 - **最新版本**: `v0.34.1.dev20260921` (2026-09-18)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 4,419 · **Fork**: 435 · **开放 issue**: 652 · **贡献者**: 53
+- **Star**: 4,420 · **Fork**: 436 · **开放 issue**: 654 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 2871 · **开放 PR**: 8 · **已关闭 issue**: 648 · **开放 issue**: 4 · **提交数**: 4572
+- **发布数**: 128 · **已合并 PR**: 2874 · **开放 PR**: 15 · **已关闭 issue**: 649 · **开放 issue**: 5 · **提交数**: 4575
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 9 | 231 | 8 | 38 | 3 | 209 |
-| last60d | 2026-07-24 | 17 | 416 | 8 | 70 | 3 | 383 |
-| 90d | 2026-06-24 | 27 | 712 | 8 | 111 | 4 | 713 |
-| last180d | 2026-03-26 | 53 | 1682 | 8 | 213 | 4 | 1631 |
-| 360d | 2025-09-27 | 67 | 2569 | 8 | 415 | 4 | 2798 |
-| last720d | 2024-10-02 | 81 | 2815 | 8 | 578 | 4 | 3914 |
+| 30d | 2026-08-24 | 9 | 226 | 15 | 39 | 4 | 212 |
+| last60d | 2026-07-25 | 17 | 411 | 15 | 70 | 4 | 386 |
+| 90d | 2026-06-25 | 27 | 715 | 15 | 112 | 5 | 716 |
+| last180d | 2026-03-27 | 52 | 1676 | 15 | 211 | 5 | 1634 |
+| 360d | 2025-09-28 | 67 | 2572 | 15 | 416 | 5 | 2801 |
+| last720d | 2024-10-03 | 80 | 2818 | 15 | 578 | 5 | 3883 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ gptme 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:43:53Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:36:15Z._
