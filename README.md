@@ -38,22 +38,22 @@ Total: **459,538** lines of code across **1473** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,448 · **Forks**: 451 · **Open issues**: 684 · **Contributors**: 56
+- **Stars**: 4,448 · **Forks**: 451 · **Open issues**: 686 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 132 · **Merged PRs**: 3149 · **Open PRs**: 28 · **Closed issues**: 679 · **Open issues**: 5 · **Commits**: 4847
+- **Releases**: 132 · **Merged PRs**: 3149 · **Open PRs**: 31 · **Closed issues**: 679 · **Open issues**: 7 · **Commits**: 4847
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 8 | 345 | 25 | 31 | 4 | 317 |
-| last60d | 2026-08-13 | 17 | 554 | 28 | 75 | 5 | 541 |
-| 90d | 2026-07-14 | 24 | 772 | 28 | 118 | 5 | 751 |
-| last180d | 2026-04-15 | 52 | 1702 | 28 | 224 | 5 | 1682 |
-| 360d | 2025-10-17 | 69 | 2795 | 28 | 426 | 5 | 2903 |
-| last720d | 2024-10-22 | 81 | 3078 | 28 | 571 | 5 | 4084 |
+| 30d | 2026-09-13 | 8 | 339 | 28 | 30 | 6 | 317 |
+| last60d | 2026-08-14 | 16 | 550 | 31 | 74 | 7 | 541 |
+| 90d | 2026-07-15 | 24 | 763 | 31 | 115 | 7 | 751 |
+| last180d | 2026-04-16 | 52 | 1691 | 31 | 224 | 7 | 1682 |
+| 360d | 2025-10-18 | 69 | 2794 | 31 | 425 | 7 | 2903 |
+| last720d | 2024-10-23 | 81 | 3074 | 31 | 570 | 7 | 4082 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gptme lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:35:17Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:13Z._
