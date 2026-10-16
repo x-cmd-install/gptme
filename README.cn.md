@@ -14,15 +14,15 @@ x install gptme
 
 ## 代码洞察
 
-合计: **466,857** 行代码（覆盖前 5 种语言、共 **1471** 个文件）。
+合计: **470,333** 行代码（覆盖前 5 种语言、共 **1476** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 368,889 | 23,527 | 71,153 | 978 |
-| Tsx | 36,896 | 1,870 | 3,846 | 184 |
+| Python | 372,013 | 23,780 | 71,706 | 982 |
+| Tsx | 37,015 | 1,879 | 3,859 | 184 |
 | Json | 22,034 | 0 | 5 | 25 |
-| TypeScript | 19,461 | 2,978 | 2,670 | 166 |
-| ReStructuredText | 11,264 | 0 | 4,476 | 118 |
+| TypeScript | 19,675 | 3,007 | 2,682 | 167 |
+| ReStructuredText | 11,273 | 0 | 4,476 | 118 |
 
 ## 源代码
 
@@ -32,53 +32,53 @@ x install gptme
 
 ## 发布
 
-- **最新版本**: `v0.34.1.dev20261008` (2026-09-18)
-- **最近提交**: 2026-10-14
+- **最新版本**: `v0.35.1` (2026-10-15)
+- **最近提交**: 2026-10-16
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 4,450 · **Fork**: 451 · **开放 issue**: 695 · **贡献者**: 57
+- **Star**: 4,450 · **Fork**: 452 · **开放 issue**: 697 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 132 · **已合并 PR**: 3237 · **开放 PR**: 11 · **已关闭 issue**: 693 · **开放 issue**: 2 · **提交数**: 4936
+- **发布数**: 135 · **已合并 PR**: 3253 · **开放 PR**: 14 · **已关闭 issue**: 693 · **开放 issue**: 4 · **提交数**: 4954
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 7 | 414 | 10 | 43 | 2 | 405 |
-| last60d | 2026-08-16 | 16 | 629 | 11 | 86 | 2 | 629 |
-| 90d | 2026-07-17 | 23 | 839 | 11 | 128 | 2 | 839 |
-| last180d | 2026-04-18 | 51 | 1771 | 11 | 236 | 2 | 1770 |
-| 360d | 2025-10-20 | 69 | 2869 | 11 | 432 | 2 | 2991 |
-| last720d | 2024-10-25 | 81 | 3160 | 11 | 581 | 2 | 4164 |
+| 30d | 2026-09-16 | 10 | 424 | 13 | 42 | 4 | 423 |
+| last60d | 2026-08-17 | 19 | 641 | 14 | 85 | 4 | 647 |
+| 90d | 2026-07-18 | 25 | 853 | 14 | 128 | 4 | 857 |
+| last180d | 2026-04-19 | 54 | 1786 | 14 | 236 | 4 | 1788 |
+| 360d | 2025-10-21 | 72 | 2881 | 14 | 429 | 4 | 3009 |
+| last720d | 2024-10-26 | 83 | 3176 | 14 | 581 | 4 | 4179 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gptme-0.34.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-0.34.0-py3-none-any.whl) | 3.1 MiB | `other` |
-| [gptme-0.34.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-0.34.0.tar.gz) | 3.3 MiB | `native/unknown` |
-| [gptme-server-bin-0.34.0-linux-x64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-server-bin-0.34.0-linux-x64.tar.gz) | 72.0 MiB | `native/unknown` |
-| [gptme-server-bin-0.34.0-macos-arm64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-server-bin-0.34.0-macos-arm64.tar.gz) | 48.5 MiB | `native/darwin/arm64` |
-| [gptme-tauri-0.34.0-1.x86_64.rpm](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri-0.34.0-1.x86_64.rpm) | 78.8 MiB | `runtime/rpm/x86_64` |
-| [gptme-tauri-0.34.0-1.x86_64.rpm.sig](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri-0.34.0-1.x86_64.rpm.sig) | 424 B | `other` |
-| [gptme-tauri_0.34.0_aarch64.app.tar.gz](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_aarch64.app.tar.gz) | 55.0 MiB | `native/linux/arm64` |
-| [gptme-tauri_0.34.0_aarch64.app.tar.gz.sig](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_aarch64.app.tar.gz.sig) | 412 B | `other` |
-| [gptme-tauri_0.34.0_aarch64.dmg](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_aarch64.dmg) | 56.3 MiB | `other` |
-| [gptme-tauri_0.34.0_amd64.AppImage](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_amd64.AppImage) | 150.0 MiB | `other` |
-| [gptme-tauri_0.34.0_amd64.AppImage.sig](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_amd64.AppImage.sig) | 424 B | `other` |
-| [gptme-tauri_0.34.0_amd64.deb](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_amd64.deb) | 78.8 MiB | `runtime/deb/amd64` |
-| [gptme-tauri_0.34.0_amd64.deb.sig](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_amd64.deb.sig) | 420 B | `other` |
-| [gptme-tauri_0.34.0_universal.aab](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_universal.aab) | 18.0 MiB | `other` |
-| [gptme-tauri_0.34.0_universal.apk](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_universal.apk) | 38.3 MiB | `other` |
-| [gptme-tauri_0.34.0_x64-setup.exe](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_x64-setup.exe) | 54.6 MiB | `other` |
-| [gptme-tauri_0.34.0_x64-setup.exe.sig](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme-tauri_0.34.0_x64-setup.exe.sig) | 424 B | `other` |
-| [gptme_acp-0.34.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme_acp-0.34.0-py3-none-any.whl) | 2.1 KiB | `other` |
-| [gptme_acp-0.34.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.34.0/gptme_acp-0.34.0.tar.gz) | 2.2 KiB | `native/unknown` |
-| [latest.json](https://github.com/gptme/gptme/releases/download/v0.34.0/latest.json) | 4.5 KiB | `other` |
+| [gptme-0.35.1-1.x86_64.rpm](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-0.35.1-1.x86_64.rpm) | 73.9 MiB | `runtime/rpm/x86_64` |
+| [gptme-0.35.1-1.x86_64.rpm.sig](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-0.35.1-1.x86_64.rpm.sig) | 436 B | `other` |
+| [gptme-0.35.1-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-0.35.1-py3-none-any.whl) | 3.5 MiB | `other` |
+| [gptme-0.35.1.tar.gz](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-0.35.1.tar.gz) | 3.8 MiB | `native/unknown` |
+| [gptme-server-bin-0.35.1-linux-x64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-server-bin-0.35.1-linux-x64.tar.gz) | 66.3 MiB | `native/unknown` |
+| [gptme-server-bin-0.35.1-macos-arm64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme-server-bin-0.35.1-macos-arm64.tar.gz) | 54.7 MiB | `native/darwin/arm64` |
+| [gptme_0.35.1_aarch64.app.tar.gz](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_aarch64.app.tar.gz) | 62.5 MiB | `native/linux/arm64` |
+| [gptme_0.35.1_aarch64.app.tar.gz.sig](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_aarch64.app.tar.gz.sig) | 424 B | `other` |
+| [gptme_0.35.1_aarch64.dmg](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_aarch64.dmg) | 63.8 MiB | `other` |
+| [gptme_0.35.1_amd64.AppImage](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_amd64.AppImage) | 148.4 MiB | `other` |
+| [gptme_0.35.1_amd64.AppImage.sig](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_amd64.AppImage.sig) | 436 B | `other` |
+| [gptme_0.35.1_amd64.deb](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_amd64.deb) | 73.9 MiB | `runtime/deb/amd64` |
+| [gptme_0.35.1_amd64.deb.sig](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_amd64.deb.sig) | 432 B | `other` |
+| [gptme_0.35.1_universal.aab](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_universal.aab) | 20.8 MiB | `other` |
+| [gptme_0.35.1_universal.apk](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_universal.apk) | 48.2 MiB | `other` |
+| [gptme_0.35.1_x64-setup.exe](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_x64-setup.exe) | 61.4 MiB | `other` |
+| [gptme_0.35.1_x64-setup.exe.sig](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_0.35.1_x64-setup.exe.sig) | 436 B | `other` |
+| [gptme_acp-0.35.1-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_acp-0.35.1-py3-none-any.whl) | 2.1 KiB | `other` |
+| [gptme_acp-0.35.1.tar.gz](https://github.com/gptme/gptme/releases/download/v0.35.1/gptme_acp-0.35.1.tar.gz) | 2.2 KiB | `native/unknown` |
+| [latest.json](https://github.com/gptme/gptme/releases/download/v0.35.1/latest.json) | 4.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ gptme 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:09:35Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:00:08Z._
