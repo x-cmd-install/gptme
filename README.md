@@ -32,28 +32,28 @@ Total: **529,956** lines of code across **1644** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.36.1.dev20261102` (2026-11-02)
+- **Latest**: `v0.36.1.dev20261105` (2026-11-02)
 - **Last commit**: 2026-11-04
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 4,469 · **Forks**: 467 · **Open issues**: 797 · **Contributors**: 64
+- **Stars**: 4,468 · **Forks**: 468 · **Open issues**: 798 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 3522 · **Open PRs**: 14 · **Closed issues**: 787 · **Open issues**: 10 · **Commits**: 5224
+- **Releases**: 141 · **Merged PRs**: 3523 · **Open PRs**: 16 · **Closed issues**: 787 · **Open issues**: 11 · **Commits**: 5224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 9 | 390 | 13 | 111 | 10 | 408 |
-| last60d | 2026-09-06 | 17 | 786 | 14 | 155 | 10 | 769 |
-| 90d | 2026-08-07 | 26 | 961 | 14 | 190 | 10 | 958 |
-| last180d | 2026-05-09 | 48 | 1905 | 14 | 293 | 10 | 1915 |
-| 360d | 2025-11-10 | 76 | 3103 | 14 | 512 | 10 | 3218 |
-| last720d | 2024-11-15 | 86 | 3423 | 14 | 662 | 10 | 4283 |
+| 30d | 2026-10-07 | 10 | 377 | 15 | 110 | 11 | 408 |
+| last60d | 2026-09-07 | 18 | 771 | 16 | 154 | 11 | 769 |
+| 90d | 2026-08-08 | 27 | 951 | 16 | 190 | 11 | 958 |
+| last180d | 2026-05-10 | 49 | 1902 | 16 | 292 | 11 | 1915 |
+| 360d | 2025-11-11 | 77 | 3100 | 16 | 512 | 11 | 3218 |
+| last720d | 2024-11-16 | 87 | 3424 | 16 | 662 | 11 | 4279 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gptme lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:27:10Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:16:12Z._
