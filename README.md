@@ -14,15 +14,15 @@ x install gptme
 
 ## Code insight
 
-Total: **529,962** lines of code across **1644** files in the top 5 languages.
+Total: **530,977** lines of code across **1646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 420,858 | 25,371 | 78,363 | 1117 |
+| Python | 421,842 | 25,408 | 78,543 | 1119 |
 | Tsx | 44,438 | 2,176 | 4,555 | 204 |
 | TypeScript | 22,568 | 3,241 | 2,914 | 178 |
 | Json | 21,534 | 0 | 5 | 27 |
-| ReStructuredText | 11,771 | 0 | 4,574 | 118 |
+| ReStructuredText | 11,802 | 0 | 4,577 | 118 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **529,962** lines of code across **1644** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,468 · **Forks**: 468 · **Open issues**: 799 · **Contributors**: 65
+- **Stars**: 4,470 · **Forks**: 468 · **Open issues**: 804 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 3524 · **Open PRs**: 30 · **Closed issues**: 788 · **Open issues**: 11 · **Commits**: 5225
+- **Releases**: 141 · **Merged PRs**: 3536 · **Open PRs**: 27 · **Closed issues**: 792 · **Open issues**: 12 · **Commits**: 5237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 10 | 375 | 29 | 111 | 11 | 409 |
-| last60d | 2026-09-08 | 18 | 754 | 30 | 149 | 11 | 770 |
-| 90d | 2026-08-09 | 27 | 944 | 30 | 190 | 11 | 959 |
-| last180d | 2026-05-11 | 49 | 1897 | 30 | 293 | 11 | 1917 |
-| 360d | 2025-11-12 | 77 | 3101 | 30 | 513 | 11 | 3220 |
-| last720d | 2024-11-17 | 87 | 3424 | 30 | 662 | 11 | 4280 |
+| 30d | 2026-10-09 | 9 | 384 | 26 | 114 | 12 | 291 |
+| last60d | 2026-09-09 | 18 | 745 | 27 | 150 | 12 | 721 |
+| 90d | 2026-08-10 | 27 | 946 | 27 | 193 | 12 | 943 |
+| last180d | 2026-05-12 | 48 | 1901 | 27 | 295 | 12 | 1899 |
+| 360d | 2025-11-13 | 77 | 3111 | 27 | 517 | 12 | 3206 |
+| last720d | 2024-11-18 | 87 | 3436 | 27 | 666 | 12 | 4290 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for gptme lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:41:58Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:46:21Z._
