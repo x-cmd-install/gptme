@@ -14,15 +14,15 @@ x install gptme
 
 ## Code insight
 
-Total: **558,345** lines of code across **1687** files in the top 5 languages.
+Total: **562,247** lines of code across **1693** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 448,875 | 26,778 | 82,649 | 1160 |
-| Tsx | 44,462 | 2,176 | 4,557 | 204 |
-| TypeScript | 22,569 | 3,242 | 2,914 | 178 |
-| Json | 21,534 | 0 | 5 | 27 |
-| ReStructuredText | 12,027 | 0 | 4,626 | 118 |
+| Python | 451,054 | 26,851 | 82,929 | 1166 |
+| Tsx | 44,462 | 2,177 | 4,557 | 204 |
+| Json | 23,180 | 0 | 5 | 27 |
+| TypeScript | 22,572 | 3,243 | 2,915 | 178 |
+| ReStructuredText | 12,100 | 0 | 4,645 | 118 |
 
 ## Source
 
@@ -32,53 +32,53 @@ Total: **558,345** lines of code across **1687** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.36.1.dev20261112` (2026-11-02)
-- **Last commit**: 2026-11-15
+- **Latest**: `v0.37.0` (2026-11-15)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 4,482 · **Forks**: 476 · **Open issues**: 825 · **Contributors**: 68
+- **Stars**: 4,482 · **Forks**: 478 · **Open issues**: 826 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 3635 · **Open PRs**: 13 · **Closed issues**: 818 · **Open issues**: 7 · **Commits**: 5336
+- **Releases**: 144 · **Merged PRs**: 3649 · **Open PRs**: 1 · **Closed issues**: 821 · **Open issues**: 5 · **Commits**: 5350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 8 | 354 | 12 | 124 | 7 | 315 |
-| last60d | 2026-09-16 | 18 | 798 | 13 | 168 | 7 | 762 |
-| 90d | 2026-08-17 | 27 | 1016 | 13 | 211 | 7 | 1002 |
-| last180d | 2026-05-19 | 48 | 1968 | 13 | 319 | 7 | 1876 |
-| 360d | 2025-11-20 | 78 | 3187 | 13 | 540 | 7 | 3277 |
-| last720d | 2024-11-25 | 88 | 3522 | 13 | 690 | 7 | 4365 |
+| 30d | 2026-10-17 | 9 | 362 | 1 | 125 | 4 | 329 |
+| last60d | 2026-09-17 | 19 | 799 | 1 | 171 | 5 | 776 |
+| 90d | 2026-08-18 | 27 | 1028 | 1 | 214 | 5 | 1016 |
+| last180d | 2026-05-20 | 49 | 1980 | 1 | 322 | 5 | 1890 |
+| 360d | 2025-11-21 | 79 | 3198 | 1 | 542 | 5 | 3291 |
+| last720d | 2024-11-26 | 89 | 3535 | 1 | 692 | 5 | 4378 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gptme-0.36.0-1.x86_64.rpm](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-0.36.0-1.x86_64.rpm) | 74.7 MiB | `runtime/rpm/x86_64` |
-| [gptme-0.36.0-1.x86_64.rpm.sig](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-0.36.0-1.x86_64.rpm.sig) | 436 B | `other` |
-| [gptme-0.36.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-0.36.0-py3-none-any.whl) | 4.2 MiB | `other` |
-| [gptme-0.36.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-0.36.0.tar.gz) | 3.9 MiB | `native/unknown` |
-| [gptme-server-bin-0.36.0-linux-x64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-server-bin-0.36.0-linux-x64.tar.gz) | 66.9 MiB | `native/unknown` |
-| [gptme-server-bin-0.36.0-macos-arm64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme-server-bin-0.36.0-macos-arm64.tar.gz) | 56.1 MiB | `native/darwin/arm64` |
-| [gptme_0.36.0_aarch64.app.tar.gz](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_aarch64.app.tar.gz) | 63.0 MiB | `native/linux/arm64` |
-| [gptme_0.36.0_aarch64.app.tar.gz.sig](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_aarch64.app.tar.gz.sig) | 424 B | `other` |
-| [gptme_0.36.0_aarch64.dmg](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_aarch64.dmg) | 64.3 MiB | `other` |
-| [gptme_0.36.0_amd64.AppImage](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_amd64.AppImage) | 149.1 MiB | `other` |
-| [gptme_0.36.0_amd64.AppImage.sig](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_amd64.AppImage.sig) | 436 B | `other` |
-| [gptme_0.36.0_amd64.deb](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_amd64.deb) | 74.7 MiB | `runtime/deb/amd64` |
-| [gptme_0.36.0_amd64.deb.sig](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_amd64.deb.sig) | 432 B | `other` |
-| [gptme_0.36.0_universal.aab](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_universal.aab) | 20.9 MiB | `other` |
-| [gptme_0.36.0_universal.apk](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_universal.apk) | 48.2 MiB | `other` |
-| [gptme_0.36.0_x64-setup.exe](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_x64-setup.exe) | 61.8 MiB | `other` |
-| [gptme_0.36.0_x64-setup.exe.sig](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_0.36.0_x64-setup.exe.sig) | 436 B | `other` |
-| [gptme_acp-0.36.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_acp-0.36.0-py3-none-any.whl) | 2.1 KiB | `other` |
-| [gptme_acp-0.36.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.36.0/gptme_acp-0.36.0.tar.gz) | 2.2 KiB | `native/unknown` |
-| [latest.json](https://github.com/gptme/gptme/releases/download/v0.36.0/latest.json) | 4.6 KiB | `other` |
+| [gptme-0.37.0-1.x86_64.rpm](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0-1.x86_64.rpm) | 74.9 MiB | `runtime/rpm/x86_64` |
+| [gptme-0.37.0-1.x86_64.rpm.sig](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0-1.x86_64.rpm.sig) | 436 B | `other` |
+| [gptme-0.37.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0-py3-none-any.whl) | 4.4 MiB | `other` |
+| [gptme-0.37.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0.tar.gz) | 4.1 MiB | `native/unknown` |
+| [gptme-server-bin-0.37.0-linux-x64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-server-bin-0.37.0-linux-x64.tar.gz) | 67.1 MiB | `native/unknown` |
+| [gptme-server-bin-0.37.0-macos-arm64.tar.gz](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-server-bin-0.37.0-macos-arm64.tar.gz) | 56.2 MiB | `native/darwin/arm64` |
+| [gptme_0.37.0_aarch64.app.tar.gz](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_aarch64.app.tar.gz) | 63.1 MiB | `native/linux/arm64` |
+| [gptme_0.37.0_aarch64.app.tar.gz.sig](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_aarch64.app.tar.gz.sig) | 424 B | `other` |
+| [gptme_0.37.0_aarch64.dmg](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_aarch64.dmg) | 64.5 MiB | `other` |
+| [gptme_0.37.0_amd64.AppImage](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.AppImage) | 149.3 MiB | `other` |
+| [gptme_0.37.0_amd64.AppImage.sig](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.AppImage.sig) | 436 B | `other` |
+| [gptme_0.37.0_amd64.deb](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.deb) | 74.9 MiB | `runtime/deb/amd64` |
+| [gptme_0.37.0_amd64.deb.sig](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.deb.sig) | 432 B | `other` |
+| [gptme_0.37.0_universal.aab](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_universal.aab) | 20.9 MiB | `other` |
+| [gptme_0.37.0_universal.apk](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_universal.apk) | 48.2 MiB | `other` |
+| [gptme_0.37.0_x64-setup.exe](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_x64-setup.exe) | 62.0 MiB | `other` |
+| [gptme_0.37.0_x64-setup.exe.sig](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_x64-setup.exe.sig) | 436 B | `other` |
+| [gptme_acp-0.37.0-py3-none-any.whl](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_acp-0.37.0-py3-none-any.whl) | 2.1 KiB | `other` |
+| [gptme_acp-0.37.0.tar.gz](https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_acp-0.37.0.tar.gz) | 2.2 KiB | `native/unknown` |
+| [latest.json](https://github.com/gptme/gptme/releases/download/v0.37.0/latest.json) | 4.6 KiB | `other` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for gptme lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:08:42Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:28:10Z._
