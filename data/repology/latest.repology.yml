@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: gptme
   visiblename: gptme
-  version: 0.36.0
+  version: 0.37.0
   origversion: null
   status: unique
   summary: AI assistant in your terminal
