@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 78541781,
       "digest": "sha256:4ee649678728ace2632589aaf4a65cc9f9217426346718198d9e080a5d549854",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-15T20:41:38Z",
       "updated_at": "2026-11-15T20:41:41Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4567564,
       "digest": "sha256:65b5a80c71f32b855e46e08ef0e77925fc05fe440360eba4716c77f3f6d7d7b2",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-15T20:29:21Z",
       "updated_at": "2026-11-15T20:29:22Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-0.37.0-py3-none-any.whl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 70384152,
       "digest": "sha256:c61fa4583ec47fff6bc7847b8ecdb06bf9e512a5da300b96fdf4176f50dce47b",
-      "download_count": 10,
+      "download_count": 16,
       "created_at": "2026-11-15T20:32:08Z",
       "updated_at": "2026-11-15T20:32:11Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-server-bin-0.37.0-linux-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58970020,
       "digest": "sha256:6dd076e84f33c7ee1d8b74a9c273db6a6c5ea2cb927a605e8d20411a4868b282",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-11-15T20:31:48Z",
       "updated_at": "2026-11-15T20:31:50Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme-server-bin-0.37.0-macos-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 67615351,
       "digest": "sha256:7e8315b735d558cacfdb3f881afbcfad254ce094f48ecb0780ad880bdef1e7ff",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-15T20:38:01Z",
       "updated_at": "2026-11-15T20:38:04Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_aarch64.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 156596728,
       "digest": "sha256:531967cf74c5b2e3939af81a431623089b870e6102ac40fdefe4585815bd07a1",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-11-15T20:41:42Z",
       "updated_at": "2026-11-15T20:41:49Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.AppImage"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 78537908,
       "digest": "sha256:6a7ca132f27e24796b7376c4f5bbedbe59d00de2a6dbc8fd4b9be2f945ac5d70",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-15T20:41:33Z",
       "updated_at": "2026-11-15T20:41:37Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 50549691,
       "digest": "sha256:81721fb7d99eebc8c1cda2598667b83999f7353d968e79346a02f01287a60377",
-      "download_count": 30,
+      "download_count": 52,
       "created_at": "2026-11-15T20:40:04Z",
       "updated_at": "2026-11-15T20:40:06Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_universal.apk"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 65022610,
       "digest": "sha256:ef7f6c32c45ddce66b6505c31b2e007e7589d26cac5075a7770b4ae2362a682c",
-      "download_count": 8,
+      "download_count": 24,
       "created_at": "2026-11-15T20:39:34Z",
       "updated_at": "2026-11-15T20:39:37Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/gptme_0.37.0_x64-setup.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 4669,
       "digest": "sha256:6032f124942e6f25acf62abed20c86598d8b938fe1c54cde4b6c5313985bdee3",
-      "download_count": 22,
+      "download_count": 62,
       "created_at": "2026-11-15T20:41:51Z",
       "updated_at": "2026-11-15T20:41:51Z",
       "browser_download_url": "https://github.com/gptme/gptme/releases/download/v0.37.0/latest.json"
